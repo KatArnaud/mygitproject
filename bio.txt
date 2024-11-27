@@ -5,3 +5,7 @@ Hello, I am learning Git and GitHub!
 
 Email:
 Phone:
+
+Contact:
+Email: Example@Example.com
+Phone: 111-222-3334
